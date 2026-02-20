@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👨‍💻 Felipe Gonçalves 
 
-<!--
-**FeehDevs/FeehDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedor Back-End**
 
-Here are some ideas to get you started:
+Olá! Me chamo **Felipe Da Silva Gonçalves**, atualmente curso **Análise e Desenvolvimento de Sistemas** na FAM.  
+Sou apaixonado por tecnologia e estou focado em desenvolvimento Back-End, banco de dados e boas práticas de programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Linguagens e Tecnologias
+
+<p align="left">
+  <img alt="Lucas-JS" height="40" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+  <img alt="Lucas-Java" height="40" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
+  <img alt="Lucas-HTML" height="40" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+
+  <img alt="Lucas-CSS" height="40" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+
+  <img alt="Lucas-Python" height="40" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+  <img alt="Lucas-PHP" height="40" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+</p>
+
+---
+
+## 🌐 Conecte-se comigo
+
+<div> 
+  <a href="https://instagram.com/feeh__gs" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="https://discord.com/users/1026678240124866602" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+
+  <a href="mailto:felipedsg.work@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/fsilvagoncalves" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
+
+---
+
+⭐ Sempre aprendendo e evoluindo na área de tecnologia.
