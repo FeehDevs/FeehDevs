@@ -8,24 +8,23 @@ Sou apaixonado por tecnologia e estou focado em desenvolvimento Back-End, banco 
 ---
 
 ## 🚀 Linguagens e Tecnologias
-
 <p align="left">
-  <img alt="Lucas-JS" height="40" width="40"
+  <img alt="Felipe-JS" height="40" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-  <img alt="Lucas-Java" height="40" width="40"
+  <img alt="Felipe-Java" height="40" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
-  <img alt="Lucas-HTML" height="40" width="40"
+  <img alt="Felipe-HTML" height="40" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
-  <img alt="Lucas-CSS" height="40" width="40"
+  <img alt="Felipe-CSS" height="40" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
-  <img alt="Lucas-Python" height="40" width="40"
+  <img alt="Felipe-Python" height="40" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-  <img alt="Lucas-PHP" height="40" width="40"
+  <img alt="Felipe-PHP" height="40" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </p>
 
