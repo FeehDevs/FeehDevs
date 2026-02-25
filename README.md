@@ -1,55 +1,54 @@
-# 👨‍💻 Felipe Gonçalves 
+# Felipe Gonçalves 🖥
 
-💻 **Desenvolvedor Back-End**
+**Desenvolvedor Back-End**
 
-Olá! Me chamo **Felipe Da Silva Gonçalves**, atualmente curso **Análise e Desenvolvimento de Sistemas** na FAM.  
-Sou apaixonado por tecnologia e estou focado em desenvolvimento Back-End, banco de dados e boas práticas de programação.
+Me chamo Felipe Da Silva Gonçalves e sou estudante de Análise e Desenvolvimento de Sistemas na FAM.  
+Tenho foco em desenvolvimento Back-End, banco de dados e boas práticas de programação.
 
----
-
-## 🚀 Linguagens e Tecnologias
-<p align="left">
-  <img alt="Felipe-JS" height="40" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-  <img alt="Felipe-Java" height="40" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-
-  <img alt="Felipe-HTML" height="40" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-
-  <img alt="Felipe-CSS" height="40" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-
-  <img alt="Felipe-Python" height="40" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
-  <img alt="Felipe-PHP" height="40" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-</p>
+Atualmente busco minha primeira oportunidade de estágio na área de desenvolvimento, onde eu possa aplicar meus conhecimentos em Java, PHP, JavaScript e banco de dados, além de evoluir tecnicamente contribuindo com soluções eficientes e bem estruturadas.
 
 ---
 
-## 🌐 Conecte-se comigo
+### 🤖 Linguagens e Tecnologias
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Felipe-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Felipe-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+</div>
+
+---
+
+## 📚 Atualmente Estudando
+
+- Estrutura de Dados  
+- Orientação a Objetos  
+- APIs REST  
+- Banco de Dados (MySQL)  
+- Versionamento com Git  
+
+---
+
+## 🌐 Contato
 
 <div> 
   <a href="https://instagram.com/feeh__gs" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-
   <a href="https://discord.com/users/1026678240124866602" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a> 
   <a href="mailto:felipedsg.work@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-
   <a href="https://www.linkedin.com/in/fsilvagoncalves" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+  </a> 
 </div>
 
 ---
 
-⭐ Sempre aprendendo e evoluindo na área de tecnologia.
+⭐ Em constante evolução como desenvolvedor, buscando escrever código limpo, eficiente e escalável.
