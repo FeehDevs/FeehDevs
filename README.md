@@ -18,16 +18,46 @@ Atualmente busco minha primeira oportunidade de estágio na área de desenvolvim
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Felipe-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Felipe-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+  <img align="center" alt="Felipe-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
+
+---
+
+## 🚀 Projetos
+
+### 📊 Acrilico Dashboard
+Sistema desenvolvido como projeto acadêmico para auxiliar uma pequena empresa de venda de acrílicos na organização de pedidos e clientes.
+
+O projeto envolve a criação de um **CRUD completo**, integração com **banco de dados**, estruturação de **rotas de API** e organização de backend seguindo boas práticas de desenvolvimento.
+
+Principais aprendizados no projeto:
+- Estruturação de APIs REST
+- Modelagem de banco de dados
+- Separação de camadas (rotas, serviços e banco)
+- Versionamento com Git
+
+---
+
+### 👨‍💻 Organização CommitCrew
+
+Também participo da organização **CommitCrew**, onde colaboro no desenvolvimento de projetos e na construção de soluções em equipe.
+
+A participação na organização tem sido importante para desenvolver habilidades como:
+
+- colaboração em projetos com Git e GitHub
+- organização de código em equipe
+- revisão e melhoria contínua de projetos
+- aplicação de boas práticas de desenvolvimento
 
 ---
 
 ## 📚 Atualmente Estudando
 
 - Estrutura de Dados  
-- Orientação a Objetos  
+- Utilização de container(Docker)
 - APIs REST  
-- Banco de Dados (MySQL)  
+- Banco de Dados (PostgreSQL)  
 - Versionamento com Git  
 
 ---
