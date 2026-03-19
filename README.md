@@ -55,7 +55,7 @@ Python | Flask | React (Vite) | PostgreSQL | Docker
 Sistema de login com controle de acesso, focado em segurança e integração com banco de dados.
 
 ### ⚙️ Tecnologias:
-PHP | PostgreSQL | Docker
+PHP | PostgreSQL | Docker | HTML | CSS | JS
 
 ### 💡 Destaques:
 - Autenticação de usuários  
