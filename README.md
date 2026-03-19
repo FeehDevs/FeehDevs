@@ -1,84 +1,96 @@
-# Felipe Gonçalves 🖥
+# 👋 Felipe Gonçalves
 
-**Desenvolvedor Back-End**
+💻 **Desenvolvedor Backend | Python | APIs REST | Docker | PostgreSQL**
 
-Me chamo Felipe Da Silva Gonçalves e sou estudante de Análise e Desenvolvimento de Sistemas na FAM.  
-Tenho foco em desenvolvimento Back-End, banco de dados e boas práticas de programação.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (FAM)** com foco em desenvolvimento backend, integração de sistemas e boas práticas de software.
 
-Atualmente busco minha primeira oportunidade de estágio na área de desenvolvimento, onde eu possa aplicar meus conhecimentos em Java, PHP, JavaScript e banco de dados, além de evoluir tecnicamente contribuindo com soluções eficientes e bem estruturadas.
+Tenho experiência prática no desenvolvimento de aplicações **full stack**, criando APIs, estruturando bancos de dados e lidando com problemas reais como comunicação entre serviços e containerização com Docker.
 
----
-
-### 🤖 Linguagens e Tecnologias
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Felipe-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Felipe-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Felipe-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-  <img align="center" alt="Felipe-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-</div>
+Atualmente busco minha primeira oportunidade como desenvolvedor, onde eu possa aplicar meus conhecimentos e evoluir tecnicamente contribuindo com soluções eficientes.
 
 ---
 
-## 🚀 Projetos
+# 🚀 Tecnologias e Ferramentas
 
-### 📊 Acrilico Dashboard
-Sistema desenvolvido como projeto acadêmico para auxiliar uma pequena empresa de venda de acrílicos na organização de pedidos e clientes.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
 
-O projeto envolve a criação de um **CRUD completo**, integração com **banco de dados**, estruturação de **rotas de API** e organização de backend seguindo boas práticas de desenvolvimento.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 
-Principais aprendizados no projeto:
-- Estruturação de APIs REST
-- Modelagem de banco de dados
-- Separação de camadas (rotas, serviços e banco)
-- Versionamento com Git
-
----
-
-### 👨‍💻 Organização CommitCrew
-
-Também participo da organização **CommitCrew**, onde colaboro no desenvolvimento de projetos e na construção de soluções em equipe.
-
-A participação na organização tem sido importante para desenvolver habilidades como:
-
-- colaboração em projetos com Git e GitHub
-- organização de código em equipe
-- revisão e melhoria contínua de projetos
-- aplicação de boas práticas de desenvolvimento
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
 
-## 📚 Atualmente Estudando
+# 🏭 Projetos em Destaque
+
+## 🔹 Sistema de Gestão para Loja de Acrílicos
+Aplicação full stack para gerenciamento de dados, com foco em organização, escalabilidade e integração entre serviços.
+
+### ⚙️ Tecnologias:
+Python | Flask | React (Vite) | PostgreSQL | Docker
+
+### 💡 Destaques:
+- API REST  
+- Arquitetura MVC  
+- Integração frontend/backend  
+- Containerização com Docker  
+
+### 🧠 Aprendizados:
+- Comunicação entre containers  
+- Modelagem de banco de dados  
+- Estruturação de aplicações escaláveis  
+- Trabalho em equipe e liderança  
+
+---
+
+## 🔐 Sistema de Autenticação Full Stack
+
+Sistema de login com controle de acesso, focado em segurança e integração com banco de dados.
+
+### ⚙️ Tecnologias:
+PHP | PostgreSQL | Docker
+
+### 💡 Destaques:
+- Autenticação de usuários  
+- Integração com banco via PDO  
+- Variáveis de ambiente  
+- Tratamento de erros  
+
+### 🧠 Aprendizados:
+- Segurança de credenciais  
+- Estruturação de backend  
+- Resolução de problemas reais  
+
+---
+
+# 📚 Atualmente Estudando
 
 - Estrutura de Dados  
-- Utilização de container(Docker)
 - APIs REST  
-- Banco de Dados (PostgreSQL)  
-- Versionamento com Git  
+- Docker  
+- PostgreSQL  
+- Git  
 
 ---
 
-## 🌐 Contato
+# 🎯 Objetivo
 
-<div> 
-  <a href="https://instagram.com/feeh__gs" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://discord.com/users/1026678240124866602" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a> 
-  <a href="mailto:felipedsg.work@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/fsilvagoncalves" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-</div>
+Busco oportunidade como **Desenvolvedor Backend ou Full Stack Júnior**, com foco em APIs, integração de sistemas e desenvolvimento de soluções escaláveis.
 
 ---
 
-⭐ Em constante evolução como desenvolvedor, buscando escrever código limpo, eficiente e escalável.
+# 📫 Contato
+
+- 📧 Email: felipeds.work@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/fsilvagoncalves/
+
+---
+
+⭐ Em constante evolução como desenvolvedor, com foco em código limpo, eficiente e bem estruturado.
