@@ -10,6 +10,13 @@ Atualmente busco minha primeira oportunidade como desenvolvedor, onde eu possa a
 
 ---
 
+# 📫 Contato
+
+- 📧 Email: felipeds.work@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/fsilvagoncalves/
+
+---
+
 # 🚀 Tecnologias e Ferramentas
 
 <p>  
@@ -73,13 +80,6 @@ PHP | PostgreSQL | Docker | HTML | CSS | JS
 # 🎯 Objetivo
 
 Busco oportunidade como **Desenvolvedor Backend ou Full Stack Júnior**, com foco em APIs, integração de sistemas e desenvolvimento de soluções escaláveis.
-
----
-
-# 📫 Contato
-
-- 📧 Email: felipeds.work@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/fsilvagoncalves/
 
 ---
 
