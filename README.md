@@ -14,6 +14,7 @@ Atualmente busco minha primeira oportunidade como desenvolvedor, onde eu possa a
 
 - 📧 Email: felipeds.work@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/fsilvagoncalves/
+- 💻 Portfolio: https://portfolio-react-woad-one.vercel.app/
 
 ---
 
